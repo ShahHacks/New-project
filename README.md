@@ -1,2 +1,2 @@
 # New-project
-Its just a demo reposetory <br> Author - Mohd Shahnawaz
+Its just a demo reposetory <br> Author - Mohd Shahnawaz Ghazi
